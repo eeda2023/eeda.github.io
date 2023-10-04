@@ -2,114 +2,123 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://eeda2023.github.io/people/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://eeda2023.github.io/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>https://eeda2023.github.io/contact/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/people/</loc>
+    <loc>https://eeda2023.github.io/tour/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tour/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/post/20-12-02-icml-best-paper/</loc>
+    <loc>https://eeda2023.github.io/post/20-12-02-icml-best-paper/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/post/</loc>
+    <loc>https://eeda2023.github.io/post/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/post/20-12-01-wowchemy-prize/</loc>
+    <loc>https://eeda2023.github.io/post/20-12-01-wowchemy-prize/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/</loc>
+    <loc>https://eeda2023.github.io/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication-type/3/</loc>
+    <loc>https://eeda2023.github.io/authors/admin/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication/preprint/</loc>
+    <loc>https://eeda2023.github.io/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/authors/</loc>
+    <loc>https://eeda2023.github.io/authors/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication_types/</loc>
+    <loc>https://eeda2023.github.io/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication/</loc>
+    <loc>https://eeda2023.github.io/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/source-themes/</loc>
+    <loc>https://eeda2023.github.io/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://eeda2023.github.io/tags/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication-type/2/</loc>
+    <loc>https://eeda2023.github.io/publication-type/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication/journal-article/</loc>
+    <loc>https://eeda2023.github.io/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/robert-ford/</loc>
+    <loc>https://eeda2023.github.io/authors/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication-type/1/</loc>
+    <loc>https://eeda2023.github.io/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication/conference-paper/</loc>
+    <loc>https://eeda2023.github.io/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/admin/</loc>
+    <loc>https://eeda2023.github.io/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/</loc>
+    <loc>https://eeda2023.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/</loc>
+    <loc>https://eeda2023.github.io/authors/david-d.-gaviria/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/</loc>
+    <loc>https://eeda2023.github.io/authors/dima-kreidieh/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/</loc>
+    <loc>https://eeda2023.github.io/faq/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/</loc>
+    <loc>https://eeda2023.github.io/authors/felix-dorst/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/</loc>
+    <loc>https://eeda2023.github.io/authors/hana-el-tannir/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://eeda2023.github.io/authors/manuela-bergau/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/faqs/</loc>
+    <loc>https://eeda2023.github.io/authors/nada-el-darra/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/schedule/</loc>
+    <loc>https://eeda2023.github.io/authors/razieh-rezaei/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://eeda2023.github.io/schedule/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://eeda2023.github.io/authors/shadi-albarqouni/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://eeda2023.github.io/authors/valentin-koch/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
