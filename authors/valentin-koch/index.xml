@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Valentin Koch | EEDA (ايدا)</title>
+    <link>https://eeda2023.github.io/authors/valentin-koch/</link>
+      <atom:link href="https://eeda2023.github.io/authors/valentin-koch/index.xml" rel="self" type="application/rss+xml" />
+    <description>Valentin Koch</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://eeda2023.github.io/authors/valentin-koch/avatar_hu87cbbf1086c897b35d1e22af9880f347_27734_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Valentin Koch</title>
+      <link>https://eeda2023.github.io/authors/valentin-koch/</link>
+    </image>
+    
+  </channel>
+</rss>

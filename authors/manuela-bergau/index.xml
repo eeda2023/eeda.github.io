@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manuela Bergau | EEDA (ايدا)</title>
+    <link>https://eeda2023.github.io/authors/manuela-bergau/</link>
+      <atom:link href="https://eeda2023.github.io/authors/manuela-bergau/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manuela Bergau</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://eeda2023.github.io/authors/manuela-bergau/avatar_hubc1c6acd29f304758072d46338de33d5_3958330_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Manuela Bergau</title>
+      <link>https://eeda2023.github.io/authors/manuela-bergau/</link>
+    </image>
+    
+  </channel>
+</rss>
