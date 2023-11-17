@@ -111,6 +111,12 @@
     <loc>https://eeda2023.github.io/faq/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://eeda2023.github.io/old-authors/felix-dorst/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://eeda2023.github.io/old-authors/felix-meissen/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://eeda2023.github.io/authors/felix-dorst/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -127,6 +133,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://eeda2023.github.io/authors/nada-el-darra/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://eeda2023.github.io/old-authors/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://eeda2023.github.io/authors/rajaa-fakhoury/</loc>
