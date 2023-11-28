@@ -99,6 +99,9 @@
     <loc>https://eeda2023.github.io/authors/agnieszka-tomczak/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://eeda2023.github.io/authors/bernd-weber/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://eeda2023.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -126,7 +129,10 @@
     <loc>https://eeda2023.github.io/authors/felix-meissen/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://eeda2023.github.io/authors/hana-el-tannir/</loc>
+    <loc>https://eeda2023.github.io/old-authors/hana-eltannir/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://eeda2023.github.io/authors/hana-eltannir/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://eeda2023.github.io/old-authors/hasan-sarhan/</loc>
